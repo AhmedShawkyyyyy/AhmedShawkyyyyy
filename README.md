@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ahmed Shawky 👨‍💻
 
-<!--
-**AhmedShawkyyyyy/AhmedShawkyyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Developer based in Cairo, focused on building clean and scalable web applications. My main playground is the **Angular** ecosystem, where I enjoy turning complex designs into functional code.
 
-Here are some ideas to get you started:
+### 🚀 What I'm currently into:
+* Building robust SPAs with **Angular (16-18)**.
+* State management and reactive programming with **RxJS** and **NgRx**.
+* Optimizing web performance and Core Web Vitals.
+* Sharing my fitness journey through tech on my health & fitness platform.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Toolbox:
+* **Languages:** TypeScript, JavaScript (ES6+), HTML5, CSS3/SASS.
+* **Frameworks:** Angular, React.
+* **Tools:** Git, Firebase, Google Search Console, GTM/GA4.
+
+---
+
+### 📈 Some Stats:
+![Ahmed's Stats](https://github-readme-stats.vercel.app/api?username=AhmedShawkyyyyy&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+---
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/ahmed-shawkyy/) | [Email](mailto:shawkyipahmed@gmail.com)
